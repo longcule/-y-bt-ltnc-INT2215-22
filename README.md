@@ -1,1 +1,1 @@
-# -y-bt-ltnc-INT2215-22
+# ltnc INT2215-22
